@@ -1,0 +1,11 @@
+
+export const challenges = [
+  "BEBA UM SHOT",
+  "DANCE UMA MÚSICA",
+  "PASSE A VEZ",
+  "TODOS BEBEM MENOS VOCÊ",
+  "BEBA EM DOBRO",
+  "BEBA SEM USAR AS MÃOS",
+  "BEBA E GIRE MAIS UMA VEZ",
+  "ESCOLHA UM AMIGO PARA BEBER"
+];
